@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoumodeepChakraborty
 - 👀 I’m interested in Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Python Libraries for Data Visualisation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Development, Python projects
 - 📫 How to reach me: soumodeepchakraborty23@gmail.com
 
 <!---
